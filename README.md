@@ -22,3 +22,12 @@ These programs help beginners practice Python number concepts, loops, conditions
 ## Author
 
 Apple Balmuda
+## How to Run
+
+1. Install Python.
+2. Download or clone this repository.
+3. Run any program using:
+
+```bash
+python filename.py
+```
